@@ -4,3 +4,6 @@
 [submodule "backend/lib/openzeppelin-contracts"]
 	path = backend/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "backend/lib/solidity-utils"]
+	path = backend/lib/solidity-utils
+	url = https://github.com/1inch/solidity-utils
